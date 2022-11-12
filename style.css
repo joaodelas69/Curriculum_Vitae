@@ -1,0 +1,14 @@
+fieldset {
+    display: block;
+    margin-left: 9px;
+    margin-right: 15px;
+    padding-top: 0.60em;
+    padding-bottom: 0.500em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 20px groove (internal value);
+  }
+.custom-info {
+    display: flex;
+    
+}
